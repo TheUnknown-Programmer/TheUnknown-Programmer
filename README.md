@@ -1,4 +1,4 @@
-<img src = "[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F711216966140063905%2F&psig=AOvVaw2Xow-ExgWe14OOYYCVzk_3&ust=1712559523510000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCPn8fDr4UDFQAAAAAdAAAAABAE](https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433)">
+<img src = "https://cdna.artstation.com/p/assets/images/images…/720/920/original/pixel-jeff-mario.gif?1572709433">
 <h1 align="center">Hi 👋, I'm Jonathan Flores</h1>
 <h3 align="center">Frontend Developer from NYC. Lets connect!</h3>
 
